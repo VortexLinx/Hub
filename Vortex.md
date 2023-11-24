@@ -4,7 +4,7 @@
 - Pop it Trading
 <br/>
 
-## ⚡ pop it trading features
+## 🌠 pop it trading features
 - auto buy
 - auto drop
 - auto sell
@@ -14,7 +14,7 @@
 - redeem all codes
 - some extra options
 
-## ⚡ pet trading features
+## 🐕 pet trading features
 - auto dupe
 - auto drop
 - auto sell
