@@ -1,4 +1,4 @@
-## ⚡ Supported Games
+## 🎮 Supported Games
 
 - Pet Trading
 - Pop it Trading
