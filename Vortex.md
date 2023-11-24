@@ -20,4 +20,4 @@
 - auto drop
 - auto sell
 - safe place
-- visual(soon)
+- visual (soon)
