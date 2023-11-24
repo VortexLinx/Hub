@@ -2,6 +2,7 @@
 
 - Pet Trading
 - Pop it Trading
+- clicker simulator
 <br/>
 
 ## 🌠 pop it trading features
