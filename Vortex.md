@@ -2,7 +2,7 @@
 
 - Pet Trading
 - Pop it Trading
-- clicker simulator
+- clicker simulator (soon)
 <br/>
 
 ## 🌠 pop it trading features
@@ -20,4 +20,4 @@
 - auto drop
 - auto sell
 - safe place
-- visual(coming soon)
+- visual(soon)
