@@ -2,7 +2,7 @@
 
 - Pet Trading
 - Pop it Trading
-- clicker simulator (soon)
+- Cars Trading
 <br/>
 
 ## 🌠 pop it trading features
@@ -21,3 +21,8 @@
 - auto sell
 - safe place
 - visual (soon)
+
+## 🚗 Cars Trading features
+- auto drop
+- auto sell
+- auto tp all lucky blocks
